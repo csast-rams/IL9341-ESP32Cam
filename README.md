@@ -31,5 +31,5 @@ Libraries:
 
 Notes:
 
-- Flashlight (GPIO 4) is enabled by default on ESP32_Cam reset
+- Flashlight (GPIO 4) is enabled by default on ESP32_Cam upon power-up.
 - Disconnect 3.3v to TFT display while compiling and uploading if you are getting errors.

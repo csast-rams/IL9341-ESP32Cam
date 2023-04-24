@@ -22,9 +22,16 @@ Libraries:
 
 #### Steps
 
-1. Load CameraWebServer from examples --> arduino-esp32/esp32/camera.
-2. Copy CamTolli9341.ino to sketchbook directory and delete CameraWebServer.ino, save sketchbook as CamTolli9341.
-3. Navigate to TFT_eSPI libraries and replace the default User_Setup.h with the code in ***User_Setup.txt***.  
+### 1.
+  - Load CameraWebServer from examples --> arduino-esp32/esp32/camera.  
+  - Copy CamTolli9341.ino to sketchbook directory and delete CameraWebServer.ino, save sketchbook as CamTolli9341.
+    
+     **-OR-** 
+   
+  - Download repository and save as CamTolli9341 in your arduino sketchbook directory  
+
+### 2.   
+  - Navigate to TFT_eSPI libraries and replace the default User_Setup.h with the code in ***User_Setup.txt***.  
 **(Instead of modifying the original file, rename it as _User_Setup.h and save the new as User_Setup.h)**
 
 ---

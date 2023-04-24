@@ -20,7 +20,7 @@ Libraries:
 
 ---
 
-#### Steps for replicating repository
+#### Steps
 
 1. Load CameraWebServer from examples --> arduino-esp32/esp32/camera.
 2. Copy CamTolli9341.ino to sketchbook directory and delete CameraWebServer.ino, save sketchbook as CamTolli9341.
